@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+ultralytics
+pymongo
+python-jose[cryptography]
+python-multipart
+passlib[bcrypt]
+python-dotenv
+opencv-python
+pillow
+pandas
+scikit-learn
+google-generativeai
+requests
+beautifulsoup4
+aiohttp
